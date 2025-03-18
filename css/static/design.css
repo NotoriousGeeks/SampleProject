@@ -1,0 +1,63 @@
+._-list-style-square
+{
+    list-style-image: url("../../image/ListImage.svg");
+}
+
+._-list-style-square li
+{
+    margin-bottom: 5px;
+}
+
+._-color-black
+{
+    color: #030303;
+}
+
+._-font-size-s
+{
+    font-size: var(--font-size-s);    
+}
+
+._-font-size-m
+{
+    font-size: var(--font-size-m);    
+}
+
+._-font-size-l
+{
+    font-size: var(--font-size-l);    
+}
+
+._-pos-abs
+{
+    position: absolute;
+}
+._-pos-rel
+{
+    position:relative;
+}
+
+._-padding-10
+{
+    padding: 10px;
+}
+._-padding-20
+{
+    padding: 20px;
+}
+._-padding-30
+{
+    padding: 30px;
+}
+._-margin-10
+{
+    margin: 10px;
+}
+._-margin-20
+{
+    margin: 20px;
+}
+._-margin-30
+{
+    margin: 30px;
+}
